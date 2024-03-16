@@ -23,5 +23,4 @@ else
     max = secondNumber;
     min = firstNumber;
 }
-Console.WriteLine("max = " + max + " и " + "min = " + min);
-//Console.WriteLine($"Большее число {secondNumber}, меньшее число {firstNumber}");
+Console.WriteLine($"Большее число {secondNumber}, меньшее число {firstNumber}");
