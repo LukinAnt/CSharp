@@ -1,0 +1,14 @@
+/Users/lukinlukina/Desktop/C-Sharp/task01/bin/Debug/net9.0/task01
+/Users/lukinlukina/Desktop/C-Sharp/task01/bin/Debug/net9.0/task01.deps.json
+/Users/lukinlukina/Desktop/C-Sharp/task01/bin/Debug/net9.0/task01.runtimeconfig.json
+/Users/lukinlukina/Desktop/C-Sharp/task01/bin/Debug/net9.0/task01.dll
+/Users/lukinlukina/Desktop/C-Sharp/task01/bin/Debug/net9.0/task01.pdb
+/Users/lukinlukina/Desktop/C-Sharp/task01/obj/Debug/net9.0/task01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukinlukina/Desktop/C-Sharp/task01/obj/Debug/net9.0/task01.AssemblyInfoInputs.cache
+/Users/lukinlukina/Desktop/C-Sharp/task01/obj/Debug/net9.0/task01.AssemblyInfo.cs
+/Users/lukinlukina/Desktop/C-Sharp/task01/obj/Debug/net9.0/task01.csproj.CoreCompileInputs.cache
+/Users/lukinlukina/Desktop/C-Sharp/task01/obj/Debug/net9.0/task01.dll
+/Users/lukinlukina/Desktop/C-Sharp/task01/obj/Debug/net9.0/refint/task01.dll
+/Users/lukinlukina/Desktop/C-Sharp/task01/obj/Debug/net9.0/task01.pdb
+/Users/lukinlukina/Desktop/C-Sharp/task01/obj/Debug/net9.0/task01.genruntimeconfig.cache
+/Users/lukinlukina/Desktop/C-Sharp/task01/obj/Debug/net9.0/ref/task01.dll
