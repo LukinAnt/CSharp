@@ -1,0 +1,15 @@
+/Users/lukinlukina/Desktop/C-Sharp/task11/bin/Debug/net9.0/task11
+/Users/lukinlukina/Desktop/C-Sharp/task11/bin/Debug/net9.0/task11.deps.json
+/Users/lukinlukina/Desktop/C-Sharp/task11/bin/Debug/net9.0/task11.runtimeconfig.json
+/Users/lukinlukina/Desktop/C-Sharp/task11/bin/Debug/net9.0/task11.dll
+/Users/lukinlukina/Desktop/C-Sharp/task11/bin/Debug/net9.0/task11.pdb
+/Users/lukinlukina/Desktop/C-Sharp/task11/obj/Debug/net9.0/task11.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukinlukina/Desktop/C-Sharp/task11/obj/Debug/net9.0/task11.AssemblyInfoInputs.cache
+/Users/lukinlukina/Desktop/C-Sharp/task11/obj/Debug/net9.0/task11.AssemblyInfo.cs
+/Users/lukinlukina/Desktop/C-Sharp/task11/obj/Debug/net9.0/task11.csproj.CoreCompileInputs.cache
+/Users/lukinlukina/Desktop/C-Sharp/task11/obj/Debug/net9.0/task11.sourcelink.json
+/Users/lukinlukina/Desktop/C-Sharp/task11/obj/Debug/net9.0/task11.dll
+/Users/lukinlukina/Desktop/C-Sharp/task11/obj/Debug/net9.0/refint/task11.dll
+/Users/lukinlukina/Desktop/C-Sharp/task11/obj/Debug/net9.0/task11.pdb
+/Users/lukinlukina/Desktop/C-Sharp/task11/obj/Debug/net9.0/task11.genruntimeconfig.cache
+/Users/lukinlukina/Desktop/C-Sharp/task11/obj/Debug/net9.0/ref/task11.dll
