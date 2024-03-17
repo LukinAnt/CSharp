@@ -3,3 +3,13 @@
 /Users/lukinlukina/Desktop/C-Sharp/task10/obj/Debug/net9.0/task10.AssemblyInfo.cs
 /Users/lukinlukina/Desktop/C-Sharp/task10/obj/Debug/net9.0/task10.csproj.CoreCompileInputs.cache
 /Users/lukinlukina/Desktop/C-Sharp/task10/obj/Debug/net9.0/task10.sourcelink.json
+/Users/lukinlukina/Desktop/C-Sharp/task10/bin/Debug/net9.0/task10
+/Users/lukinlukina/Desktop/C-Sharp/task10/bin/Debug/net9.0/task10.deps.json
+/Users/lukinlukina/Desktop/C-Sharp/task10/bin/Debug/net9.0/task10.runtimeconfig.json
+/Users/lukinlukina/Desktop/C-Sharp/task10/bin/Debug/net9.0/task10.dll
+/Users/lukinlukina/Desktop/C-Sharp/task10/bin/Debug/net9.0/task10.pdb
+/Users/lukinlukina/Desktop/C-Sharp/task10/obj/Debug/net9.0/task10.dll
+/Users/lukinlukina/Desktop/C-Sharp/task10/obj/Debug/net9.0/refint/task10.dll
+/Users/lukinlukina/Desktop/C-Sharp/task10/obj/Debug/net9.0/task10.pdb
+/Users/lukinlukina/Desktop/C-Sharp/task10/obj/Debug/net9.0/task10.genruntimeconfig.cache
+/Users/lukinlukina/Desktop/C-Sharp/task10/obj/Debug/net9.0/ref/task10.dll

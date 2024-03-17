@@ -5,29 +5,16 @@
 НЕРЕШЕНА
 */
 
-Console.WriteLine("Введите два числа: ");
-int x = Convert.ToInt32(Console.ReadLine());
-int Y = Convert.ToInt32(Console.ReadLine());
-
-
-//Console.Write('x = '); readln (x);
-//Console.Write('y = '); readln (y);
-
-    if (x > 0) and (y > 0)
-    {
-        Console.Write('Четверть I');
-    }
-    else if (x < 0) and (y > 0)
-    {
-        Console.Write('Четверть II');
-    }
-    else if (x < 0) and (y < 0)
-    {
-        Console.Write('Четверть III');
-    }
-    else if (x > 0) and (y < 0)
-    {
-        Console.Write('Четверть IV');
-    }
-    else
-    Console.Write("Точка лежит на оси");
+Console.Write("Введите координаты точки X и Y через пробел:");string[] coordinates = Console.ReadLine().Split(' ');
+int x = Convert.ToInt32(coordinates[0]);
+int y = Convert.ToInt32(coordinates[1]);
+if (x > 0 && y > 0)
+Console.WriteLine("1");
+else if (x < 0 && y > 0)
+Console.WriteLine("2");
+else if (x < 0 && y < 0)
+Console.WriteLine("3");
+else if (x > 0 && y < 0)
+Console.WriteLine("4");
+else
+Console.WriteLine("Точка находится на оси координат");
