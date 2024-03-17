@@ -1,0 +1,5 @@
+/Users/lukinlukina/Desktop/C-Sharp/task10/obj/Debug/net9.0/task10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukinlukina/Desktop/C-Sharp/task10/obj/Debug/net9.0/task10.AssemblyInfoInputs.cache
+/Users/lukinlukina/Desktop/C-Sharp/task10/obj/Debug/net9.0/task10.AssemblyInfo.cs
+/Users/lukinlukina/Desktop/C-Sharp/task10/obj/Debug/net9.0/task10.csproj.CoreCompileInputs.cache
+/Users/lukinlukina/Desktop/C-Sharp/task10/obj/Debug/net9.0/task10.sourcelink.json
